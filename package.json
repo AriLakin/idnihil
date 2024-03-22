@@ -1,0 +1,27 @@
+{
+  "name": "idnihil",
+  "version": "1.0.0",
+  "description": "A partial implementation of java.util.Random for JS",
+  "main": "lib/",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AriLakin/idnihil.git"
+  },
+  "keywords": [
+    "et",
+    "at",
+    "ut"
+  ],
+  "author": "MarcelleStark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AriLakin/idnihil.git/issues"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "homepage": "https://github.com/AriLakin/idnihil.git"
+}
